@@ -3,7 +3,7 @@
 **Know before you go.** MapAble is a web map that shows people with disabilities which places in Vilnius they can actually enter.
 
 🌐 **Live app:** https://mapablelt.onrender.com
-🏆 **Hack4Vilnius 2026 finalist** (Challenge #09: *How to help people with disabilities find places adapted to them more easily in Vilnius?*)
+🏆 **Hack4Vilnius 2026 finalist** 
 
 ---
 
